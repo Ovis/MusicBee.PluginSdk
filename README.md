@@ -1,0 +1,1 @@
+# MusicBee.PluginSdk Design Documentation
